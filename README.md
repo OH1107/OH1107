@@ -4,9 +4,8 @@
 
 </div>
 
-### Hi there 👋
 
-#### 🌱 I’m currently learning __"Data Analysis"__
+### 🌱 I’m currently learning __"Data Analysis"__
 - Python, SQL, Machine Learning, NLP, fintech etc...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OH1107)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->### Hi there 👋
