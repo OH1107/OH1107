@@ -4,15 +4,14 @@
 
 </div>
 
-
-### 🌱 I’m currently learning __"Data Analysis"__
-- Python, SQL, Machine Learning, NLP, fintech etc...
-
-<div align=right>
+<div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OH1107)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+### 🌱 I’m currently learning __"Data Analysis"__
+- Python, SQL, Machine Learning, NLP, fintech etc...
 
 <!--
 **OH1107/OH1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
