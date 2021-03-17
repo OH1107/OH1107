@@ -10,11 +10,13 @@
 
 </div>
 
-### 🌱 I’m currently learning __"Data Analysis"__
-- Python, SQL, Machine Learning, NLP, fintech etc...
+
 
 <!--
 **OH1107/OH1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 🌱 I’m currently learning __"Data Analysis"__
+- Python, SQL, Machine Learning, NLP, fintech etc...
 
 Here are some ideas to get you started:
 
