@@ -14,7 +14,7 @@
   
   ## :hammer_and_wrench: I can use these techs
   #### :speaker: Main Programming Language
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   
   #### :speaker: Web Frontend & Backend
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
