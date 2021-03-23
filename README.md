@@ -27,6 +27,7 @@
   
   #### :speaker: Visualization Tools
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power-BI&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>
   
   #### :speaker: Collaboration Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
