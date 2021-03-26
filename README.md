@@ -13,7 +13,7 @@
 <div>
   
   ## :hammer_and_wrench: I can use these techs
-  #### :speaker: Main Programming Language
+  ### :speaker: Main Programming Language
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   &nbsp;**By**&nbsp;
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
@@ -21,21 +21,21 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/></a>
   
  
-  #### :speaker: Web Frontend & Backend
+  ### :speaker: Web Frontend & Backend
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   
-  #### :speaker: SQL Tools
+  ### :speaker: SQL Tools
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google BigQuery-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>
   
-  #### :speaker: Visualization Tools
+  ### :speaker: Visualization Tools
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power-BI&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>
   
-  #### :speaker: Collaboration Tools
+  ### :speaker: Collaboration Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
