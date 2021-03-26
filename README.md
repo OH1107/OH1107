@@ -16,9 +16,7 @@
   ### :speaker: Main Programming Language
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
   
-  &emsp; :point_right:  
-  
-  &emsp; <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/></a>
