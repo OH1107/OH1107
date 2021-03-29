@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jira Soft ware-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=Mattermost&logoColor=white"/></a>
