@@ -6,9 +6,13 @@
 
 <div align="center">
   
+  <div>
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OH1107&hide=prs,issues&show_icons=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OH1107&layout=compact&hide=jupyter%20notebook&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+  </div>
+  
 </div>
 
 <div>
