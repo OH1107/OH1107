@@ -1,6 +1,7 @@
 <div style="display: inline">
   
   # :beginner: Theo's GitHub&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOH1107&count_bg=%23A8A8A8&title_bg=%234D4D4D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <img src="https://img.shields.io/badge/Tistory Blog-FF6600?style=flat-square&logo=TV-Time&logoColor=white&link=https://5-ssssseung.tistory.com/"></a>
   
 </div>
 
@@ -30,6 +31,7 @@
   ### :speaker: Web
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   
   ### :speaker: SQL
