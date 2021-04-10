@@ -53,7 +53,6 @@
 
 </div>
 
-.
 
 <!--
 **OH1107/OH1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
