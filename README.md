@@ -15,6 +15,7 @@
   
 </div>
 
+<!--
 <div>
   
   ## :hammer_and_wrench: I can use these techs
@@ -56,7 +57,7 @@
   <img src="https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=Mattermost&logoColor=white"/></a>
 
 </div>
-
+-->
 
 <!--
 **OH1107/OH1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
