@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mattermost-0072C6?style=flat-square&logo=Mattermost&logoColor=white"/></a>
 
+
 </div>
 -->
 
